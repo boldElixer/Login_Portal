@@ -1,0 +1,48 @@
+.navbar{
+    height: 5vmax;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    box-shadow: 0 4px 8px 0 #824282;
+}
+.navbar>p{
+    font-size: 2.5vmax;
+    font-weight: 600;
+    padding: 0 5vmax;
+}
+.navbar>h2{
+    font-size: 1.5vmax;
+    padding: 0 5vmax;
+    display: flex;
+}
+.logout{
+    font-size: 1.8vmax;
+}
+.logout:hover{
+    transform: scale(1.2);
+    cursor: pointer;
+}
+
+.detail_head{
+    font-size: 1.5vmax;
+    padding: 0.5vmax 5vmax;
+}
+
+.details{
+    padding: 0.5vmax 5vmax;
+    display: flex;
+}
+.left_detail{
+    padding-right: 5vmax;
+}
+.left_detail>p{
+    font-size: 1.5vmax;
+    font-weight: 600;
+    padding: 0.5vmax 0;
+}
+.right_detail>p{
+    font-size: 1.5vmax;
+    font-weight: 700;
+    padding: 0.5vmax 0;
+}

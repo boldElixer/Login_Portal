@@ -1,0 +1,26 @@
+.regis_page{
+    text-align: center;
+    font-weight: 600;
+}
+.regis_page>h1{
+    font-size: 3.5vmax;
+    font-weight: 600;
+}
+.registration{
+    padding-top: 2vmax;
+}
+.registration>.input_field{
+    width: 40vmax;
+}
+.registration>span{
+    width: 44vmax;
+    display: flex;
+    justify-content: space-between;
+}
+.name_field{
+    width: 17vmax;
+}
+select>option{
+    background-color: white;
+    font-size: 1.5vmax;
+}
